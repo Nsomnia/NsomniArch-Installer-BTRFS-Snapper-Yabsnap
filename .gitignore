@@ -14,3 +14,15 @@ _book
 *.epub
 *.mobi
 *.pdf
+
+# accidental babies
+*.fuck
+*.fsck
+*.bak
+*.bak*
+*.backup
+*.working
+*-testing
+*-working
+*.testing
+*.working
